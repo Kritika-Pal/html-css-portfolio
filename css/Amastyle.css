@@ -135,14 +135,12 @@ span{
 }
 
 /**hero-section**/
-.hero-section{
-    
+.hero-section{    
     background-size: cover;
     height: 350px;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
-    
+    align-items: flex-end;    
 }
 .hero-msg{
     background-color: white;
